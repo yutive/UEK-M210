@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-size: 300%;
+    font-family: "Times New Roman", serif;
+}
+.left {
+    margin-left: 5%;
+    width: 60%;
+}
+.right {
+    margin-left: 40%;
+    width: 60%;
+}
+
+.space {
+    padding: 8px;
+}
+html {
+    background-color: #a0aecd;
+}
+.rights {
+    text-align: center;
+    font-style: italic;
+}
